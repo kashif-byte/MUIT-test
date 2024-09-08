@@ -7,6 +7,3 @@ let e = 30
 
 
 //Second change
-
-
-let i = "added first change"
