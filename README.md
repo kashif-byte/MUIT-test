@@ -12,3 +12,6 @@ Adding data for conflict
 
 
 Adding changes in local
+
+Adding changes in local1
+Addind changes in local2
