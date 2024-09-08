@@ -12,5 +12,7 @@ Adding data for conflict
 
 
 Adding changes in local
+
 Adding changes in Remote 
+
 Adding changes in Remote1
